@@ -97,19 +97,19 @@ Next I will improve my responsive layout to be even smoother
 
 ### Useful resources
 
-- [freeCodeCamp](https://www.freecodecamp.org/): The platform I used to learn HTML, CSS, and JavaScript in depth, including lessons on forms, layouts, and responsiveness.
+- [freeCodeCamp](https://www.freecodecamp.org/)
 
-- [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): My main resource for learning about CSS properties and techniques, especially Flexbox and Media Queries.
+- [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-- [W3Schools - CSS](https://www.w3schools.com/css/): A handy reference for quick examples and documentation on CSS usage.
+- [W3Schools - CSS](https://www.w3schools.com/css/)
 
-- [Frontend Mentor - Blog Preview Card Challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ryaPa2l8M): The main challenge page that provided the design and requirements for this project.
+- [Frontend Mentor - Blog Preview Card Challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ryaPa2l8M)
+  
+- [Google Fonts](https://fonts.google.com/)
 
-- [Google Fonts](https://fonts.google.com/): I used Google Fonts to find and implement the `Figtree` font for this project.
+- [CSS-Tricks - Transform](https://css-tricks.com/almanac/properties/t/transform/)
 
-- [CSS-Tricks - Transform](https://css-tricks.com/almanac/properties/t/transform/): A great resource for understanding how to use the `transform` property, including `scale()` for the hover effect.
-
-- [GitHub Pages Documentation](https://docs.github.com/en/pages): The guide I used to deploy this project on GitHub Pages and make it publicly accessible online.
+- [GitHub Pages Documentation](https://docs.github.com/en/pages)
 
 ## Author
 
@@ -121,5 +121,4 @@ Next I will improve my responsive layout to be even smoother
 
 - Thanks to [Frontend Mentor](https://www.frontendmentor.io) for providing the challenge and design files.
 - Big thanks to the [freeCodeCamp](https://www.freecodecamp.org) community for all the learning resources and tutorials.
-- Special thanks to [CSS-Tricks](https://css-tricks.com) for their helpful guides and tutorials on CSS.
 - Shout out to the [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS) for being an incredible resource for understanding web technologies.
