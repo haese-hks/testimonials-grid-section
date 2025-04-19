@@ -34,9 +34,9 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Github Pages](#)
+- Live Site URL: [Github Pages](https://haese-hks.github.io/testimonials-grid-section/)
 
-- Solution URL: [Frontend Mentor](#)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/testimonials-grid-section-using-css-grid-B9vzmJuXvu)
 
 ## My process
 
